@@ -1,0 +1,29 @@
+rafce -> make the function component 
+
+//for sign-in and sign-up
+go to clerk and make application
+copy env
+wrap layout
+import in header
+make folders in app(auth)
+again to to clerk update env
+
+//for go to any file
+ctrl+p 
+
+//asChild mission in page.tsx in root
+
+
+//backend  ---- ->> means file, -> means folder 
+go to lib -> database ->> index.ts
+----packages
+-- mongoose, mongodb
+---connect database in index.ts file
+---new folder called madals -> user.modal.ts
+
+
+//--- npm i svix
+
+//for making route go to clerk user -> webhooks data -> copy the file -> make the folder structure in vc code -> do some needing change
+//makes types folder in root directory
+//go to utils.ts in lib and make the error handling
