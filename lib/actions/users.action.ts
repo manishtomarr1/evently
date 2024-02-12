@@ -1,6 +1,6 @@
 //? means that this code is run on server
 //?we don't have the server which running constantly, we have the actions only run when call
-"user server";
+"use server";
 import { revalidatePath } from 'next/cache'
 import { CreateUserParams, UpdateUserParams } from "@/types"; //! this is we use to declare the types we define CreateUserParams in types and me take all of these keys in the route file
 import { connectToDatabase } from '@/lib/database'
